@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_camera"
+            android:icon="@drawable/ic_home_black_24dp"
+            android:title="Trang chủ" />
+        <item
+            android:id="@+id/nav_gallery"
+            android:icon="@drawable/ic_account_circle_24dp"
+            android:title="Quản lý tài khoản" />
+        <item
+            android:id="@+id/nav_slideshow"
+            android:icon="@drawable/ic_notifications_black_24dp"
+            android:title="Thông báo" />
+        <item
+            android:id="@+id/nav_manage"
+            android:icon="@drawable/ic_favorite_black_24dp"
+            android:title="Yêu thích" />
+        <item
+            android:id="@+id/nav_share"
+            android:icon="@drawable/ic_settings_black_24dp"
+            android:title="Cài đặt" />
+    </group>
+
+    <item android:title="Hỗ trợ">
+        <menu>
+            <item
+                android:id="@+id/nav_send"
+                android:title="HOTLINE: 1900-6035(1000đ/phút)" />
+            <item
+                android:id="@+id/nav_email"
+                android:title="Gửi email hỗ trợ" />
+            <item
+                android:id="@+id/nav_quest"
+                android:title="Câu hỏi thường gặp" />
+            <item
+                android:id="@+id/nav_doitra"
+                android:title="Chính sách đổi trả" />
+            <item
+                android:id="@+id/nav_trans"
+                android:title="Chính sách vận chuyển" />
+        </menu>
+    </item>
+
+</menu>

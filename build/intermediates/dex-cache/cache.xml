@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/apple/Downloads/TikiVN/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/Users/apple/Downloads/TikiVN/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_309c9361df901d114f25efa7f154330e6202501c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/apple/.android/build-cache/053db1e40153f683c5351f55a9d90bf93eeab206/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="89ba8466f3e32427af7aa725eb7be31a15c78a77">
+        <dex dex="/Users/apple/Downloads/TikiVN/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_7caea8d3be3a45663a18a3baa8f3caa90305c5eb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/apple/Downloads/TikiVN/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="52a9a7b2a3916c456a0280fc6b7113bc7550117a">
+        <dex dex="/Users/apple/Downloads/TikiVN/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_b744bc41429230a0f4ed8d082a78286daf12a553/classes.dex" />
+    </item>
+
+</items>
